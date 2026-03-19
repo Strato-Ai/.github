@@ -1,26 +1,25 @@
 # Strato.AI
 
-Open-source infrastructure for self-hosted AI inference.
+**Intelligence That Accelerates**
 
-We build the tools that let teams run large language models on their own hardware — routing requests across GPU backends, monitoring health, and scaling without vendor lock-in.
+Strato.AI is a boutique technology advisory firm based in Coral Gables, FL. We operate as embedded fractional leadership — vCISO, vCTO, vCIO — bringing enterprise-grade capability to organizations that move fast.
 
-## Projects
+## What We Do
+
+**Cybersecurity** — Fractional vCISO and advisory teams that build and mature your security posture. Enterprise-grade protection without corporate overhead.
+
+**AI & Process Automation** — We implement and scale AI solutions tied to measurable business outcomes, not technology for its own sake.
+
+**Startup & Investor Advisory** — Technical guidance that bridges founders and investors, with deep expertise in Florida's venture landscape. We help startups articulate technical vision and help VCs evaluate what they're backing.
+
+## Open Source
+
+We publish the infrastructure tools we build internally. These projects reflect how we think about self-hosted AI, GPU orchestration, and operational automation.
 
 | Repository | Description |
 |-----------|-------------|
 | [Spectre](https://github.com/Strato-Ai/Spectre-ai-inference-loadbalancer) | NGINX-based load balancer for AI inference with model-aware routing, GPU health monitoring, and multi-platform support (NVIDIA / Apple Silicon / CPU) |
 
-## What We Focus On
+## Connect
 
-- **Self-hosted AI inference** — run models on your own GPUs, not someone else's cloud
-- **Model-aware routing** — direct requests to the right backend based on model name and GPU load
-- **Multi-platform GPU support** — NVIDIA (nvidia-smi), Apple Silicon (macmon), and CPU fallback
-- **Infrastructure as code** — Terraform modules for reproducible deployments
-
-## Tech Stack
-
-`NGINX` · `FastAPI` · `Terraform` · `LM Studio` · `Python` · `Bash` · `systemd`
-
-## License
-
-All projects are released under the [MIT License](https://opensource.org/licenses/MIT).
+[strato.ai](https://www.strato.ai)
