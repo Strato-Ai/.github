@@ -2,15 +2,27 @@
 
 **Intelligence That Accelerates**
 
-Strato.AI is a boutique technology advisory firm based in Coral Gables, FL. We operate as embedded fractional leadership — vCISO, vCTO, vCIO — bringing enterprise-grade capability to organizations that move fast.
+Strato.AI is a boutique technology advisory firm based in Coral Gables, FL. We operate as embedded fractional leadership — vCISO, vCTO, vCIO — delivering enterprise-grade capability to organizations that move fast.
+
+We are selective about engagements and intentional about fit. We function as an extension of your team, not an outside consultant.
+
+---
 
 ## What We Do
 
-**Cybersecurity** — Fractional vCISO and advisory teams that build and mature your security posture. Enterprise-grade protection without corporate overhead.
+### Cybersecurity
 
-**AI & Process Automation** — We implement and scale AI solutions tied to measurable business outcomes, not technology for its own sake.
+Enterprise-grade security leadership without the enterprise overhead. Our fractional vCISO and advisory teams embed directly into your organization to build, mature, and defend your security posture.
 
-**Startup & Investor Advisory** — Technical guidance that bridges founders and investors, with deep expertise in Florida's venture landscape. We help startups articulate technical vision and help VCs evaluate what they're backing.
+### AI & Process Automation
+
+We identify, implement, and scale AI solutions that produce measurable business outcomes. Not AI for the sake of AI — automation tied to real operational impact.
+
+### Startup & Investor Advisory
+
+Technical guidance that bridges the gap between capital and execution. We help startups articulate technical vision and investor-ready architecture, and we help VCs evaluate what they're backing — with deep expertise in Florida's venture landscape.
+
+---
 
 ## Open Source
 
@@ -18,8 +30,10 @@ We publish the infrastructure tools we build internally. These projects reflect 
 
 | Repository | Description |
 |-----------|-------------|
-| [Spectre](https://github.com/Strato-Ai/Spectre-ai-inference-loadbalancer) | NGINX-based load balancer for AI inference with model-aware routing, GPU health monitoring, and multi-platform support (NVIDIA / Apple Silicon / CPU) |
+| [Spectre](https://github.com/Strato-Ai/Spectre-ai-inference-loadbalancer) | NGINX-based load balancer for AI inference with model-aware routing, GPU health monitoring, and multi-platform support |
+
+---
 
 ## Connect
 
-[strato.ai](https://www.strato.ai)
+[strato.ai](https://www.strato.ai) · Coral Gables, FL
