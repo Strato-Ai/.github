@@ -2,7 +2,7 @@
 
 **Intelligence That Accelerates**
 
-Strato.AI is a boutique technology advisory firm based in Coral Gables, FL. We operate as embedded fractional leadership — vCISO, vCTO, vCIO — delivering enterprise-grade capability to organizations that move fast.
+Strato.AI is a boutique technology advisory firm based in Coral Gables, FL. We operate as embedded fractional leadership — vCISO, vCAIO, vCTO, vCIO — delivering enterprise-grade capability to organizations that move fast.
 
 We are selective about engagements and intentional about fit. We function as an extension of your team, not an outside consultant.
 
